@@ -1,0 +1,6 @@
+{
+  "name": "UI Automation Playground",
+  "description": "A comprehensive interactive testing ground for QA engineers to practice UI automation with complex form validation, dynamic elements, data tables, open and closed shadow DOMs, iframes, and z-index overlapping states.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
